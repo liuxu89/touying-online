@@ -68,10 +68,10 @@
 #let (slide, empty-slide) = utils.slides(s)
 #show: slides
 
-= Animation
+= 中文测试
 
-== Simple Animation
-
+== Simple Animation 测试
+中文测试
 We can use `#pause` to #pause display something later.
 
 #pause
